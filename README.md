@@ -18,3 +18,5 @@ Any text you type will be displayed here.
 #Link:
 
 [This is the website](https://pavandhy.ccbp.tech/)
+
+![Markdown image](https://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png)
