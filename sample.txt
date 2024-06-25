@@ -1,2 +1,2 @@
 This is the sample file for reference.
-This is changed on remote site.
+This is changed on remote site [Github].
