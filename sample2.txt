@@ -2,4 +2,3 @@ This is another sample.
 But I have changed it.
 Added another line
 Add one more line
-This is a new branch
